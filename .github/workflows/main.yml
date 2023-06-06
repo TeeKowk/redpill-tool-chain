@@ -20,10 +20,10 @@ jobs:
         run: chmod 0755 ./redpill_tool_chain.sh
 
       - name: Build docker image
-        run: ./redpill_tool_chain.sh build apollolake-7.0.1-42218
+        run: ./redpill_tool_chain.sh build ds918p-6.2.4-25556
 
       - name: Create dsm image
-        run: ./redpill_tool_chain.sh auto apollolake-7.0.1-42218
+        run: ./redpill_tool_chain.sh auto ds918p-6.2.4-25556
 
       - uses: actions/upload-artifact@v2
         with:
