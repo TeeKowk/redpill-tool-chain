@@ -312,7 +312,7 @@
       "downloads": {
         "kernel": {
           "url": "https://sourceforge.net/projects/dsgpl/files/Synology%20NAS%20GPL%20Source/25426branch/apollolake-source/linux-4.4.x.txz/download",
-          "sha256": "b1f47a9a038a3f0a55867459a36640baa86904edf7a0b1156a8cf0f820ce7135"
+          "sha256": "fabae411f8dda21dc22c56a8334529f6982cc634c6e46d6b502b465e74203409"
         },
         "toolkit_dev": {
           "url": "https://sourceforge.net/projects/dsgpl/files/toolkit/DSM6.2/ds.apollolake-6.2.dev.txz/download",
